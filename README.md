@@ -1,5 +1,5 @@
 # PyDataMath
-A simple Python calculator gui application based on the [Texas Instruments Datamath](https://americanhistory.si.edu/collections/search/object/nmah_1364035) produced circa 1972. Also see [this site](http://www.datamath.org/).
+A simple Python calculator gui application based on the [Texas Instruments Datamath](https://americanhistory.si.edu/collections/search/object/nmah_1364035) produced circa 1972. You can [read more](http://www.datamath.org/) about the history of this interesting calcuator.
 
 This project builds a GUI with a transparent background with **clickable picture buttons** created from the original image. This is as close as you can get to using one without actually having one!
 
