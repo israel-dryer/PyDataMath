@@ -1,7 +1,7 @@
-# PyDataMath
+# PyDataMath - GUI calculator with transparent background
 A simple Python calculator gui application based on the Texas Instruments Datamath produced circa 1972. You can [read more](http://www.datamath.org/) about the history of this interesting calcuator. 
 
-If you're looking for some experience with a GUI, or you want to add a project to your Python portfolio, this is a great place to start. This project builds a GUI with a transparent background with **clickable picture buttons** created from the original image. This is as close as you can get to using one without actually having one! The code includes 4 progressive steps used to build the application as part of a [YouTube]() tutorial. Step 4 is the finished product.
+If you're looking for some experience with a GUI, or you want to add a project to your Python portfolio, this is a great place to start. This project builds a GUI with a transparent background with **clickable picture buttons** created from the original image. This is as close as you can get to using one without actually having one! Watch the [YouTube]() tutorial ... COMING SOON...
 
 Tkinter should already be installed with your python distribution. But if not, you can install with `pip install tkinter`
 
